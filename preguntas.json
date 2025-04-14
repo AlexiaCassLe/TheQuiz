@@ -1,0 +1,251 @@
+{
+    "beginner": [
+      {
+        "texto": "¿Qué planeta está más cerca del Sol?",
+        "opciones": {
+          "A": "Tierra",
+          "B": "Venus",
+          "C": "Marte",
+          "D": "Mercurio"
+        },
+        "respuesta_correcta": "D"
+      },
+      {
+        "texto": "¿En qué estación del año caen las hojas?",
+        "opciones": {
+          "A": "Primavera",
+          "B": "Verano",
+          "C": "Otoño",
+          "D": "Invierno"
+        },
+        "respuesta_correcta": "C"
+      },
+      {
+        "texto": "¿Cuántos minutos tiene una hora?",
+        "opciones": {
+          "A": "30",
+          "B": "90",
+          "C": "60",
+          "D": "45"
+        },
+        "respuesta_correcta": "C"
+      },
+      {
+        "texto": "¿Cuál es el deporte que se juega con una raqueta y una pelota amarilla?",
+        "opciones": {
+          "A": "Bádminton",
+          "B": "Tenis",
+          "C": "Squash",
+          "D": "Ping pong"
+        },
+        "respuesta_correcta": "B"
+      },
+      {
+        "texto": "¿Qué gas necesitamos para vivir?",
+        "opciones": {
+          "A": "Oxígeno",
+          "B": "Hidrógeno",
+          "C": "Dióxido de carbono",
+          "D": "Helio"
+        },
+        "respuesta_correcta": "A"
+      },
+      {
+        "texto": "¿Cuál es la moneda oficial de Estados Unidos?",
+        "opciones": {
+          "A": "Euro",
+          "B": "Peso",
+          "C": "Dólar",
+          "D": "Libra"
+        },
+        "respuesta_correcta": "C"
+      }
+    ],
+    "intermediate": [
+      {
+        "texto": "¿Cuántos continentes hay?",
+        "opciones": {
+          "A": "5",
+          "B": "6",
+          "C": "7",
+          "D": "8"
+        },
+        "respuesta_correcta": "C"
+      },
+      {
+        "texto": "¿Quién pintó la Mona Lisa?",
+        "opciones": {
+          "A": "Pablo Picasso",
+          "B": "Leonardo da Vinci",
+          "C": "Vincent van Gogh",
+          "D": "Michelangelo"
+        },
+        "respuesta_correcta": "B"
+      },
+      {
+        "texto": "¿En qué año llegó el hombre a la luna?",
+        "opciones": {
+          "A": "1969",
+          "B": "1972",
+          "C": "1965",
+          "D": "1980"
+        },
+        "respuesta_correcta": "A"
+      },
+      {
+        "texto": "¿Cuál es el órgano más grande del cuerpo humano?",
+        "opciones": {
+          "A": "Corazón",
+          "B": "Pulmones",
+          "C": "Hígado",
+          "D": "Piel"
+        },
+        "respuesta_correcta": "D"
+      },
+      {
+        "texto": "¿Cuál es la capital de Australia?",
+        "opciones": {
+          "A": "Melbourne",
+          "B": "Sídney",
+          "C": "Canberra",
+          "D": "Perth"
+        },
+        "respuesta_correcta": "C"
+      },
+      {
+        "texto": "¿Qué significa 'WWW' en una dirección de internet?",
+        "opciones": {
+          "A": "World Wide Web",
+          "B": "World Web Network",
+          "C": "Web World Wide",
+          "D": "World Wide Work"
+        },
+        "respuesta_correcta": "A"
+      }
+    ],
+    "advanced": [
+      {
+        "texto": "¿En qué año comenzó la Segunda Guerra Mundial?",
+        "opciones": {
+          "A": "1914",
+          "B": "1939",
+          "C": "1941",
+          "D": "1945"
+        },
+        "respuesta_correcta": "B"
+      },
+      {
+        "texto": "¿Qué rey español fue apodado 'el Sabio'?",
+        "opciones": {
+          "A": "Felipe II",
+          "B": "Carlos I",
+          "C": "Alfonso X",
+          "D": "Fernando VI"
+        },
+        "respuesta_correcta": "C"
+      },
+      {
+        "texto": "¿Qué significa ONU?",
+        "opciones": {
+          "A": "Organización Nacional Unida",
+          "B": "Organización de Naciones Unidas",
+          "C": "Oficina Nacional Unitaria",
+          "D": "Organización de Negocios Universales"
+        },
+        "respuesta_correcta": "B"
+      },
+      {
+        "texto": "¿Qué es una mitocondria?",
+        "opciones": {
+          "A": "Un tipo de célula",
+          "B": "Un organelo encargado de la respiración celular",
+          "C": "Un órgano del cuerpo humano",
+          "D": "Un virus"
+        },
+        "respuesta_correcta": "B"
+      },
+      {
+        "texto": "¿En qué año cayó el muro de Berlín?",
+        "opciones": {
+          "A": "1979",
+          "B": "1985",
+          "C": "1989",
+          "D": "1991"
+        },
+        "respuesta_correcta": "C"
+      },
+      {
+        "texto": "¿Qué significa el sufijo '-fobia'?",
+        "opciones": {
+          "A": "Amor",
+          "B": "Miedo",
+          "C": "Enfermedad",
+          "D": "Atracción"
+        },
+        "respuesta_correcta": "B"
+      }
+    ],
+    "pro": [
+      {
+        "texto": "¿Cuál es la constante de Planck?",
+        "opciones": {
+          "A": "6.626 x 10⁻³⁴ J·s",
+          "B": "3.00 x 10⁸ m/s",
+          "C": "1.602 x 10⁻¹⁹ C",
+          "D": "9.81 m/s²"
+        },
+        "respuesta_correcta": "A"
+      },
+      {
+        "texto": "¿Qué presidente estadounidense abolió la esclavitud?",
+        "opciones": {
+          "A": "George Washington",
+          "B": "Thomas Jefferson",
+          "C": "Abraham Lincoln",
+          "D": "Theodore Roosevelt"
+        },
+        "respuesta_correcta": "C"
+      },
+      {
+        "texto": "¿Qué es un pulsar?",
+        "opciones": {
+          "A": "Un tipo de planeta",
+          "B": "Una estrella de neutrones que emite radiación periódica",
+          "C": "Una galaxia lejana",
+          "D": "Un cometa brillante"
+        },
+        "respuesta_correcta": "B"
+      },
+      {
+        "texto": "¿Quién escribió La Ilíada?",
+        "opciones": {
+          "A": "Platón",
+          "B": "Sófocles",
+          "C": "Homero",
+          "D": "Aristóteles"
+        },
+        "respuesta_correcta": "C"
+      },
+      {
+        "texto": "¿De qué libro de William Shakespeare es la famosa frase 'Ser o no ser, esa es la cuestión'?",
+        "opciones": {
+          "A": "Romeo y Julieta",
+          "B": "Macbeth",
+          "C": "Hamlet",
+          "D": "Otelo"
+        },
+        "respuesta_correcta": "C"
+      },
+      {
+        "texto": "¿Cuál es el número atómico del Oxígeno?",
+        "opciones": {
+          "A": "6",
+          "B": "7",
+          "C": "8",
+          "D": "10"
+        },
+        "respuesta_correcta": "C"
+      }
+    ]
+  }
+  
